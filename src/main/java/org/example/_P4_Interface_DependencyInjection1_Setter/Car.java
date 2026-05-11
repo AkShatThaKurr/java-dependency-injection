@@ -1,6 +1,6 @@
 // Setter dependency injection.
 
-package org.example._P3_Interface_DependencyInjection1_Setter;
+package org.example._P4_Interface_DependencyInjection1_Setter;
 
 public class Car {
     Engine engine;
